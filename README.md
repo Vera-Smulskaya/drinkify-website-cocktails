@@ -1,3 +1,5 @@
+https://www.figma.com/file/KhTN7Ver0vmkZegNAnSQQV/Drinkify-(Copy)?node-id=3319%3A1699&mode=dev
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
