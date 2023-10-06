@@ -1,4 +1,9 @@
+Макет
 https://www.figma.com/file/KhTN7Ver0vmkZegNAnSQQV/Drinkify-(Copy)?node-id=3319%3A1699&mode=dev
+ТЗ
+https://docs.google.com/spreadsheets/d/1QH1gvPTYFk9w1CfAHBC9oiGxT_kHtAUX_6yEjrWakSg/edit#gid=0
+API https://drinkify.b.goit.study/api-docs/ Командний проект, приклад
+https://github.com/Imperface/cocktail-search/tree/main
 
 # Vanilla App Template
 

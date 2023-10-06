@@ -1,0 +1,12 @@
+:root {
+  --violet: #7e8fdd;
+  --violet-hover: #6e7fcf;
+  --turquoise: #9cdfdf;
+  --text-color-dark-theme: #fdfdff;
+  --text-color-light-theme: #242424;
+  --main-bgcolor-light-theme: #f8f9ff;
+  --btn-bgcolor-light-theme: rgba(36, 36, 36, 0.1);
+  --btn-bgcolor-hover-light-theme: rgba(36, 36, 36, 0.2);
+  --btn-bgcolor-dark-theme: rgba(253, 253, 255, 0.1);
+  --btn-bgcolor-hover-dark-theme: rgba(253, 253, 255, 0.2);
+}
